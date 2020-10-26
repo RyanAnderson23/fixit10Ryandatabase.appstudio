@@ -1,0 +1,101 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerUpdate",
+        "Elements",
+        "lblUpdate.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerUpdate",
+        "Elements",
+        "inptCustomer.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerUpdate",
+        "Elements",
+        "btnSubmit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerUpdate",
+        "Elements",
+        "selCustomers.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerUpdate",
+        "Elements",
+        "txtCustomers.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerUpdate",
+        "Elements",
+        "lblInst.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerUpdate",
+        "Elements",
+        "Label1.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "customerUpdate",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "customerUpdate.onshow()",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}
